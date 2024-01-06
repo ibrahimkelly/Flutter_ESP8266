@@ -1,16 +1,3 @@
-# iot
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Welcome to Flutter IoT with ESP8266,
+an innovative Internet of Things (IoT) project powered by the versatile ESP8266 microcontroller.
+This project seamlessly integrates smart connectivity into everyday devices, transforming them into intelligent, connected devices that enhance your daily life.
